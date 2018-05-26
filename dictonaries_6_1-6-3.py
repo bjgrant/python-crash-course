@@ -29,6 +29,11 @@ glossary = {
     'list': 'collection of entities',
     'python': 'programming language',
     'boolean': 'true or false',
+    'sorted': 'sorts alphabetically',
+    'set': 'creates a unique list',
+    'keys()': 'accesses the keys in a dictionary',
+    'values()': 'accesses the values in a dictionary',
+    'if': "checks if something is true",
 }
 
 for key, value in glossary.items():
